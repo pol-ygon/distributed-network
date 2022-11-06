@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrbR6GnU+dKb2d2ubqI4/xrXbgRNyzwi2A8TEmxEvOR8tTsK+CGG7uG/ZkisYPb8F8MRg/fcedn61AfN+YyGow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pamar\\source\\repos\\node\\node\\node.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pamar\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\pamar\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
